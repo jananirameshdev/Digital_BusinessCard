@@ -1,0 +1,271 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+body{
+width: 550px;
+height: 868px;
+top: 53px;
+left: 65px;
+padding: 44px 117px 44px 116px;
+gap: 0px;
+opacity: 0px;
+background: #23252C;
+}
+.container{
+  width: 317px;
+height: 780px;
+top: 44px;
+left: 116px;
+gap: 0px;
+opacity: 0px;
+border: 1px solid #D1D5DB;
+box-shadow: 0px 4px 4px 0px #00000040;
+border-radius: 10px 10px;
+}
+.pic{
+  width: 317px;
+height: 317px;
+top: 44px;
+left: 116px;
+gap: 0px;
+border-radius: 10px 10px 0px 0px;
+opacity: 0px;
+
+}
+.name{
+width: 278.06px;
+height: 25.81px;
+top: 382px;
+left: 186px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 25px;
+font-weight: 700;
+line-height: 30.26px;
+text-align: center;
+color: #FFFFFF;
+margin-left: 20px;
+margin-top: 10px;
+}
+.profession{
+  margin-top: 10px;
+  width: 178.06px;
+height: 14.19px;
+top: 414px;
+left: 186px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 12.8px;
+font-weight: 400;
+line-height: 15.49px;
+text-align: center;
+color: #F3BF99;
+margin-left: 70px;
+}
+.website{
+  width: 228px;
+height: 16px;
+top: 437px;
+left: 161px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 10.24px;
+font-weight: 400;
+line-height: 15.36px;
+text-align: center;
+color: #F5F5F5;
+margin-top: 10px;
+margin-left: 40px;
+}
+.buttons{
+  display: flex;
+}
+.email{
+  width: 115px;
+  height: 34px;
+  top: 468px;
+  left: 151px;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+  border-radius: 6px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background: #FFFFFF;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px 0px #0000000D;
+  margin-top: 10px;
+  display: flex;
+  margin-left: 35px;
+  text-align: center;
+}
+.envelope{
+padding-bottom: 5px;
+font-family:"Inter", sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+text-align: center;
+color: #374151;
+}
+
+.linkedIn{
+   width: 115px;
+  height: 34px;
+  top: 468px;
+  left: 151px;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+  border-radius: 6px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background: #5093E2;
+  color:#FFFFFF;
+  border: 1px solid #D1D5DB;
+  box-shadow: 0px 1px 2px 0px #0000000D;
+  font-family:"Inter", sans-serif;
+  margin-top: 10px;
+  margin-left: 15px;
+  display: flex;
+}
+.abouts{
+  width: 247px;
+height: 201px;
+top: 535px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+margin-left: 35px;
+}
+.about_head{
+  width: 242.71px;
+height: 21px;
+top: 535px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+color: #F5F5F5;
+margin-top: 30px;
+
+}
+.detail{
+  width: 247px;
+height: 61px;
+top: 561px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 12.24px;
+font-weight: 400;
+line-height: 15.36px;
+text-align: left;
+color: #DCDCDC;
+margin-top: 10px;
+text-align: justify;
+}
+.interests{
+  width: 247px;
+height: 201px;
+top: 535px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+margin-left: 35px;
+margin-top: -80px;
+}
+.interest_head{
+  width: 242.71px;
+height: 21px;
+top: 649px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+color: #F5F5F5;
+}
+.interest_detail{
+  width: 247px;
+height: 61px;
+top: 561px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+font-family:"Inter", sans-serif;
+font-size: 12.24px;
+font-weight: 400;
+line-height: 15.36px;
+text-align: left;
+color: #DCDCDC;
+margin-top: 10px;
+text-align: justify;
+}
+.footers{
+  width: 317px;
+height: 64px;
+top: 760px;
+left: 116px;
+gap: 0px;
+border-radius: 0px 0px 10px 10px;
+opacity: 0px;
+background: #161619;
+margin-top: -88px;
+}
+.icon_box{
+  width: 25px;
+height: 25px;
+top: 779px;
+left: 189px;
+gap: 0px;
+opacity: 0px;
+background: #918E9B;
+margin-right: 20px;
+margin-left: 10px;
+display: inline-block;
+padding: 1px;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
