@@ -1,4 +1,5 @@
 import { FaFacebook, FaGithub, FaInstagram, FaTwitter } from "react-icons/fa";
+import { Link } from "@react-email/components";
 function Footer() {
     return (
         <div className="footers">
@@ -13,7 +14,7 @@ function Footer() {
                 <FaInstagram />
             </div>
             <div className="icon_box">
-                <FaGithub />
+                <Link href="https://github.com/jananirameshdev"> <FaGithub /></Link>
             </div>
         </div>
     )
